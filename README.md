@@ -8,6 +8,8 @@ Aquí hay recetas de:
 * Postres
 * Verduras
 * Tortillas
+	- Patatas 
+	- Tuning
 
 Para colaborar
 --------------
