@@ -13,7 +13,7 @@ Aquí hay recetas de:
 	* Pollo con verduras  
 * Carne & aves
 * Postres
-	* Flan de huevo [a relative link](flanDeHuevo.md)
+	* [Flan de huevo](/fotos/flanDeHuevo.md)
 	* Buñuelos de manzana  
 	* FlanDeHuevo  
 	* Mousse de limón con merengue  
