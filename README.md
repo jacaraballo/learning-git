@@ -14,3 +14,5 @@ Para colaborar
 
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
+
+De momento no ponemos foto, pero lo haré cuando lo sepa.
