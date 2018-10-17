@@ -6,9 +6,9 @@ Aquí hay recetas de:
 * Guisos
 	* Arroz caldoso  
 	* Caldereta de pescado  
-	* Estofado de Ternera  
-	* GuisoDeCarneConPatatas  
-	* PatatasFritasHorneadas  
+	* Estofado de ternera  
+	* Guiso de carne con patatas  
+	* Patatas fritas horneadas  
 	* Pollo a la cerveza con setas y alcachofas  
 	* Pollo con verduras  
 * Carne & aves
