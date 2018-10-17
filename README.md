@@ -3,6 +3,7 @@ Repositorio de recetas con fines didácticos
 
 Aquí hay recetas de:
 
+* [Ensaladas](Ensaladas/)
 * Guisos
 * Carne & aves
 * Postres
