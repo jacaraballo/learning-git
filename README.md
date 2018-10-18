@@ -6,42 +6,33 @@ Aquí hay recetas de:
 * [Ensaladas](Ensaladas/)
 	- Ensalada Caprese
 	- Ensalada de garbanzos y hortalizas
-
-* [Guisos](Guisos/)
+* Guisos
 	- Arroz caldoso
-	- Caldereta de pescado  
-	- Estofado de ternera  
 	- Gachas manchegas
 	- Guiso
-	- Guiso de carne con patatas  
-	- Lentejas
-	- Patatas fritas horneadas
-	- Pollo a la cerveza con setas y alcachofas
+	- Pollo a la cerveza
 	- Pollo con verduras
-
-
+  - Caldereta de pescado  
+	- Estofado de ternera  
+	- Guiso de carne con patatas  
+	- Patatas fritas horneadas
+	- Lentejas
 * Carne & aves
 	- Morteruelo
-
-  
-* [Postres](Postres/)
+* Postres
 	- Buñuelos de manzanas
-	- Flan de huevo
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-
-
-* [Tortillas](Tortillas/)
-	- Tortilla de Patatas 
-	- Tortilla de Patatas con jamón
-	- Tortilla de Patatas original
-	- Tortilla de Espinacas
-	- Tortilla Francesa
-
-* [Verduras](Verduras/)
+  - Flan de huevo	
+* Verduras
 	- Patatas cocidas
-
+* [Tortillas](Tortillas/)
+	- Patatas 
+	- Francesa
+	- Tuning
+  - Tortilla de espinacas  
+	- Tortilla de patata  
 
 Para colaborar
 --------------
