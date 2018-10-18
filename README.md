@@ -3,29 +3,33 @@ Repositorio de recetas con fines didácticos
 
 Aquí hay recetas de:
 
-* Guisos
-	** Arroz Caldoso
-	** Caldereta de pescado
-	** Carrilleras al vino
-	** Cocido madrileño
-	** Estofado de ternera
-	** Pollo a la cerveza
-	** Pollo con pisto
-	** Pollo con verduras
+* [Ensaladas](Ensaladas/)
+* [Guisos](Guisos/)
+	- Arroz Caldoso
+	- Gachas Manchegas
+	- Guiso
+	- Caldereta de pescado
+	- Carrilleras al vino
+	- Cocido madrileño
+	- Estofado de ternera
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras
 
 * Carne & aves
 
-* Postres
-	** Brownie
-	** Buñuelos de manzana
-	** Higos con queso de cabra
-	** Mousse de limón
-
+* [Postres](Postres/)
+	- Brownie
+	- Buñuelos de manzanas
+	- Higos con queso de cabra gratinados
+	- Mousse de limón con merengue
+	- Tarta de manzana
+	
 * Verduras
-
-* Tortillas
-	* Tortilla de papas
-	* Tortilla con chorizo
+* [Tortillas](Tortillas/)
+	- Patatas 
+	- Tuning
+	- Chorizo
 
 Para colaborar
 --------------
