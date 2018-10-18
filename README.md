@@ -3,39 +3,48 @@ Repositorio de recetas con fines didácticos
 
 Aquí hay recetas de:
 
-* Guisos
-  ======
-  arroz_caldoso.md
-  pollo_a_la_cerveza_con_setas_y_alcachofas.md
-  pollo_con_verduras.md
-  RecetaLenjetas_RHO.md
-  
-  
+* [Ensaladas](Ensaladas/)
+	- Ensalada Caprese
+	- Ensalada de garbanzos y hortalizas
+
+* [Guisos](Guisos/)
+	- Arroz caldoso
+	- Caldereta de pescado  
+	- Estofado de ternera  
+	- Gachas manchegas
+	- Guiso
+	- Guiso de carne con patatas  
+	- Lentejas
+	- Patatas fritas horneadas
+	- Pollo a la cerveza con setas y alcachofas
+	- Pollo con verduras
+
+
 * Carne & aves
-  ============
-  RecetaMorteruelo_RHO.md
+	- Morteruelo
+
   
-* Postres
-  =======
-  buñuelos_de_manzana.md
-  higos_con_queso_de_cabra_gratinado.md
-  mousse_de_limón_con_merengue.md
-  
-* Verduras
-  ========
-  PatatasCocidas_rho.md
-  
-  
-* Tortillas
-  =========
-  RecetaTortilladePatatas_RHO.md
-  RecetaTortillaFrancesa_RHO.md
-  
+* [Postres](Postres/)
+	- Buñuelos de manzanas
+	- Flan de huevo
+	- Higos con queso de cabra gratinados
+	- Mousse de limón con merengue
+	- Tarta de manzana
+
+
+* [Tortillas](Tortillas/)
+	- Tortilla de Patatas 
+	- Tortilla de Patatas con jamón
+	- Tortilla de Patatas original
+	- Tortilla de Espinacas
+	- Tortilla Francesa
+
+* [Verduras](Verduras/)
+	- Patatas cocidas
+
 
 Para colaborar
 --------------
 
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
-
-De momento no ponemos foto, pero lo haré cuando lo sepa.
