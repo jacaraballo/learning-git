@@ -12,4 +12,3 @@ Sal o pastilla de caldo
 Un puñado grande de guisantes (opcional)
 Pimienta en grano
 Hierbas frescas al gusto (tomillo, romero…)
-
