@@ -4,29 +4,37 @@ Repositorio de recetas con fines didácticos
 Aquí hay recetas de:
 
 * [Ensaladas](Ensaladas/)
-* Guisos
-	- Arroz caldoso
-	- Gachas manchegas
+<<<<<<< HEAD
+* [Guisos](Guisos/)
+	- Arroz Caldoso
+	- Gachas Manchegas
 	- Guiso
+	- Caldereta de pescado
+	- Carrilleras al vino
+	- Cocido madrileño
+	- Estofado de ternera
 	- Pollo a la cerveza
-	- Pollo con verduras
-  - Caldereta de pescado  
-	- Estofado de ternera  
+	- Pollo con pisto
+	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
+
 * Carne & aves
-* Postres
+
+* [Postres](Postres/)
+	- Brownie
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
 	- Tarta de manzana
-  - Flan de huevo	
+  	- Flan de huevo	
+
 * Verduras
 * [Tortillas](Tortillas/)
 	- Patatas 
 	- Tuning
-  - Tortilla de espinacas  
-	- Tortilla de patata  
+	- Chorizo
+	- Epinacas espinacas  
 
 Para colaborar
 --------------
