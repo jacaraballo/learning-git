@@ -4,7 +4,9 @@ Repositorio de recetas con fines didácticos
 Aquí hay recetas de:
 
 * [Ensaladas](Ensaladas/)
-<<<<<<< HEAD
+	- Ensalada Caprese
+	- Ensalada de garbanzos y hortalizas
+
 * [Guisos](Guisos/)
 	- Arroz Caldoso
 	- Gachas Manchegas
@@ -18,8 +20,10 @@ Aquí hay recetas de:
 	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
+	- Lentejas
 
 * Carne & aves
+	- Morteruelo
 
 * [Postres](Postres/)
 	- Brownie
@@ -30,8 +34,11 @@ Aquí hay recetas de:
   	- Flan de huevo	
 
 * Verduras
+	- Patatas cocidas
+
 * [Tortillas](Tortillas/)
 	- Patatas 
+	- Francesa
 	- Tuning
 	- Chorizo
 	- Epinacas espinacas  
